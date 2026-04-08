@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eric-enterprise&label=Profile%20views&color=0e75b6&style=flat" alt="eric-enterprise" /> </p>
 
 - 🌱 I’m currently learning everything
+- working for <a href="https://www.mofa.go.kr" target="_blank"><img src="https://flagcdn.com/w40/kr.png" width="30" alt="South Korea"/></a>
 
 - ...
 
