@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/steamdb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/785562537679912960" height="30" width="40" /></a>
+<a href="https://youtu.be/dQw4w9WgXcQ?si=3W3NLI7jCaTbXBSB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/785562537679912960" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
